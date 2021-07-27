@@ -26,6 +26,7 @@ Download and install the following
 * **Output the results of the form submit to the console or text file**
 * Don't worry about styling, just focus on the form text and fields first. Just do your best on making it look nice for now, you **don't** need to copy the design identically 
 * Dont use a react framework, build all the components from scratch 
+* (you should use commit emojis https://github.com/cooperka/emoji-commit-messages)!!!
 
 <img width="746" alt="Screen Shot 2021-07-26 at 11 13 53 PM" src="https://user-images.githubusercontent.com/28906501/127104930-30d125de-3c64-42a3-95d3-2abb77eb2102.png">
 

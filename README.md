@@ -17,7 +17,7 @@ Download and install the following
 
 ## Getting Started 
 1. Install packages by running `yarn install` in project directory
-2. Running react project by `yarn dev`
+2. Run the react project by `yarn dev`
 3. You can add/remove dependencies by running `yarn add <name of npm package>` or `yarn remove <name of npm package>`
 
 # Project Task

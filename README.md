@@ -1,5 +1,5 @@
 # learn-react-with-me
-Basic react learning project
+Basic react learning project :)
 
 ## Required Installations 
 Download and install the following
